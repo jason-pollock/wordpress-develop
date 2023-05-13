@@ -6,6 +6,7 @@ Welcome to the WordPress development repository! Please check out the [contribut
 * [Credentials](#credentials)
 
 ## Getting Started
+### This edit is from Gitpod. It's faster than Spaces. More responsive.
 
 ### Using GitHub Codespaces
 
