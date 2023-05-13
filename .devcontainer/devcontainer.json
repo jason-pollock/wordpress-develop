@@ -7,6 +7,9 @@
 
     // Features to add to the dev container. More info: https://containers.dev/features.
     "features": {
+        "ghcr.io/devcontainers/features/sshd:1": {
+            "version": "latest"
+        },
         "ghcr.io/devcontainers/features/common-utils:2": {
             "username": "wordpress"
         },
@@ -21,5 +24,14 @@
     "forwardPorts": [
         8080
     ],
-    "remoteUser": "wordpress"
+	"remoteUser": "wordpress",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"johnbillion.vscode-wordpress-hooks",
+				"vscodevim.vim",
+				"DEVSENSE.phptools-vscode"
+			]
+		}
+	}
 }
