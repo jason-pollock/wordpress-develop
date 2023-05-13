@@ -6,6 +6,7 @@ Welcome to the WordPress development repository! Please check out the [contribut
 * [Credentials](#credentials)
 
 ## Getting Started
+### This edit is from Codespaces in a browser.
 
 ### Using GitHub Codespaces
 
