@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "devsense.phptools-vscode"
+        "devsense.phptools-vscode",
+        "davidanson.vscode-markdownlint",
+        "eamodio.gitlens"
     ]
 }

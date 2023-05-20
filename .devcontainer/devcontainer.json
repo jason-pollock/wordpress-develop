@@ -30,7 +30,9 @@
 			"extensions": [
 				"johnbillion.vscode-wordpress-hooks",
 				"vscodevim.vim",
-				"DEVSENSE.phptools-vscode"
+				"DEVSENSE.phptools-vscode",
+				"DavidAnson.vscode-markdownlint",
+				"eamodio.gitlens"
 			]
 		}
 	}
